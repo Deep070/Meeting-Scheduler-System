@@ -16,14 +16,23 @@ System Components:
 
 Project Structure:
 Meeting Scheduler System 
+
 │
+
 ├── client.cpp
+
 ├── serverM.cpp
+
 ├── serverA.cpp
+
 ├── serverB.cpp
+
 ├── Makefile
+
 ├── README.txt
+
 ├── a.txt
+
 └── b.txt
 
 Source Files:
